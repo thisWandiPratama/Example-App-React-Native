@@ -14,3 +14,4 @@ SettingWA ini merupakan latihan Implementasi Method Basic dari react native, sep
 
 Hasilnya seperti berikut 
 
+/home/wandi/public/React-Native/SettingWA/Screenshot_2019-01-01-09-29-58.png
