@@ -1,0 +1,32 @@
+[
+    {
+        "username":"wandi",
+        "image":"https://partalibra.files.wordpress.com/2017/11/download-3.jpg",
+        "location":"Prabumulih, Indonesia",
+        "diskripsi":"Developer React Native"
+    },
+    {
+        "username":"Rahmad",
+        "image":"https://4.bp.blogspot.com/-fKeTOCEkHGA/WGRqtUjYpTI/AAAAAAAAHHc/bmelS2qqY6gNbd8LgD8W9U-B4m_sK_VGACK4B/s320/larangan-riba-dalam-al-quran-dan-sunnah.jpg",
+        "location":"Medan,Indonesia",
+        "diskripsi":"Developer Java"
+    },
+    {
+        "username":"Ziad",
+        "image":"https://2.bp.blogspot.com/-Re6W3Vb3FQU/WP1AX9oobtI/AAAAAAAAVis/ROZWrvzeFLYGg8pq15T5j2rlyv7s-ZIIgCLcB/s1600/Mulia%2Bdengan%2BIslam.jpg",
+        "location":"Aceh, Indonesia",
+        "diskripsi":" Node js"
+    },
+    {
+        "username":"Wildan",
+        "image":"https://i.ytimg.com/vi/TTuJezU1nMw/maxresdefault.jpg",
+        "location":"Bekasi, Indonesia",
+        "diskripsi":"Node JS"
+    },
+    {
+        "username":"Sarifuddin",
+        "image":"https://1.bp.blogspot.com/-rAs6oOzaXO0/WVXmGxJAdNI/AAAAAAAAhYU/e6SY4Wp4Uq0JM-RZDAqEIIDNWegpcOlXACLcBGAs/s320/quran%2Bsunnah.jpg",
+        "location":"Manado, Indonesia",
+        "diskripsi":"Php"
+    }
+]
