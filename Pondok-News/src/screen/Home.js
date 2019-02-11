@@ -33,7 +33,7 @@ class Home extends React.Component {
                     renderItem={({ index, item }) => {
                         return (
                             <View>
-                                <TouchableOpacity onPress={() => this.onButtomDetail([`${item.username}`, `${item.location}`, `${item.image}`, `${item.diskripsi}`])}>
+                                <TouchableOpacity onPress={() => this.onButtomDetail([`${item.username}`, `${item.location}`, `${item.image}`, `${item.diskripsi}`, `${item.artikel}`])}>
                                     <View style={styles.viewJudul}>
                                         <Text style={styles.judul}>{item.username}</Text>
                                         <Text style={styles.location}>{item.location}</Text>
@@ -85,10 +85,3 @@ const styles = StyleSheet.create ({
 
     }
 })
-// 
-//                                 <View style={styles.headerTextTitleDanDescripsion} >
-//                                     <Text style={styles.textSetting}>{item.username}</Text>
-//                                 </View>
-//                                 {/* Khusus image yang ada urlr */}
-//                                 <Image source={{uri:item.image}} style={styles.styleImage} />
-//                             </TouchableOpacity>
