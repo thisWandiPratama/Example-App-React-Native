@@ -132,4 +132,4 @@ margin: 10,
 All we need to do is use flexbox to center the content and then set the
 direction to row to horizontally render each row. Additionally, we are
 adding 10 pixels of margin:
-![alt text](https://drive.google.com/open?id=13Y5HHC8Q4XjiduBZbXzXQoI0PHsNQS8V)
+![alt text](https://drive.google.com/file/d/13Y5HHC8Q4XjiduBZbXzXQoI0PHsNQS8V/view)
